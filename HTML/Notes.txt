@@ -1,0 +1,33 @@
+Html(Hyper Text Markup Langauge)
+->Not a programming Langauge
+->markup Langauge for creating webpages/documents
+->building blocks of web
+
+Creating html file
+->They do not need server
+->files must end with .html extension
+->run in a web browser
+index.html is the root/home page of a website
+
+Tag syntax
+->elements names surrounded by angle brackets
+->normally comes in pairs
+->end tag is usually same with forward slash
+->some tags close themselves(<br>)
+
+HTML page structure
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <h1>This is heading</h1>
+    <p>This is a paragraph.</p>
+    <p>This is another paragraph.</p>
+</body>
+</html>
+
+tag attributes
+->all tags can have attributes
+->provides information about the elements
