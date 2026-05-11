@@ -1,0 +1,11 @@
+. Cascading Stylesheets
+· NOT a programming language
+. Stylesheet/Styling language
+. Used for website layout and design
+. Can be extended with Sass/Less
+
+. Inline CSS: Directly in the html element (NO!)
+. Internal CSS: Using <style> tags within a single document
+· External CSS: Linking an external .css file
+
+order for margin is top, right, bottom and left
